@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Lighter Raid Colors
+## Version: 1.0
+## Notes: Changes Raid Leader & Raid Warning chat colors; reverts to usual when disabled (3.3.5)
+## Author: ggb00
+
+LighterRaidColors.lua
